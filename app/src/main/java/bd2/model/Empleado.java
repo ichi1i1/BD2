@@ -1,5 +1,7 @@
 package bd2.model;
 
 public class Empleado extends Persona {
-    public String tipo;;
+    public int cuil; 
+    public String tipo;   
+    
 }

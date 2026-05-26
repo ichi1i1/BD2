@@ -23,6 +23,12 @@ dependencies {
 
     // This dependency is used by the application.
     implementation libs.guava
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    // Tus dependencias existentes
+    testImplementation libs.junit.jupiter
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    implementation libs.guava
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
@@ -41,3 +47,5 @@ tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
 }
+
+

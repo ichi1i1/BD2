@@ -1,0 +1,1802 @@
+[
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 0"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 1"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 0",
+          "tipo": "Medicamento",
+          "precio": 100.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 100.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 110.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 110.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 120.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 120.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 130.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 130.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 140.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 140.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 150.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 150.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 160.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 160.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Perfumería",
+          "precio": 170.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 170.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 180.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 180.0
+      }
+    ],
+    "total": 0.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "sucursal": {
+      "nombre": "Sucursal 2"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 190.0,
+          "codigo": 0,
+          "stock": 0
+        },
+        "cantidad": 1,
+        "precioUnitario": 190.0
+      }
+    ],
+    "total": 0.0
+  }
+]
