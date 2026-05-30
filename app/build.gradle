@@ -24,6 +24,7 @@ dependencies {
     // This dependency is used by the application.
     implementation libs.guava
     implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'org.mongodb:mongodb-driver-sync:4.11.1'
 
     // Tus dependencias existentes
     testImplementation libs.junit.jupiter
@@ -47,5 +48,3 @@ tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
 }
-
-

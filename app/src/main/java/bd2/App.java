@@ -3,76 +3,18 @@
  */
 package bd2;
 
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
-
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
-import bd2.model.DetalleProducto;
-import bd2.model.Producto;
-import bd2.model.Sucursal;
+import bd2.model.*;
 import bd2.model.Venta;
 
 public class App {
     public static void main(String[] args) {
-        List<Venta> todasLasVentas = new ArrayList<>();
-
-        // 1. Instanciación básica de datos de prueba
-        List<Producto> productos = new ArrayList<>();
-        for(int i=0; i<10; i++) {
-            Producto p = new Producto();
-            p.nombre = "Producto " + i;
-            p.precio = 100.0 + (i*10);
-            p.tipo = (i < 7) ? "Medicamento" : "Perfumería";
-            productos.add(p);
-        }
-
-        List<Sucursal> sucursales = new ArrayList<>();
-        for(int i=0; i<3; i++) {
-            Sucursal s = new Sucursal();
-            s.nombre = "Sucursal " + i;
-            sucursales.add(s);
-        }
-
-        // 2. Generación de 30 ventas por sucursal
-        for (Sucursal s : sucursales) {
-            for (int i = 0; i < 30; i++) {
-                Venta v = new Venta();
-                v.sucursal = s;
-                v.fecha = "2026-05-26";
-                
-                // Productos (Desnormalizados dentro de la venta)
-                v.productos = new ArrayList<>();
-                DetalleProducto dp = new DetalleProducto();
-                dp.producto = productos.get(i % 10);
-                dp.cantidad = 1;
-                dp.precioUnitario = dp.producto.precio;
-                v.productos.add(dp);
-                
-                todasLasVentas.add(v);
-            }
-        }
-
-        // 3. Serialización a JSON (El documento desnormalizado final)
-        // 1. Crear el motor GSON configurado
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-
-        // 2. Convertir tu lista a un String (esto es el "console log")
-        String jsonEnFormatoString = gson.toJson(todasLasVentas);
-
-        // 3. Imprimirlo en la terminal
-        System.out.println("--- INICIO DEL JSON ---");
-        System.out.println(jsonEnFormatoString);
-        System.out.println("--- FIN DEL JSON ---");
-
-        // 4. (Opcional) Si además quieres mantener el archivo, sigues con tu código:
-        try (FileWriter writer = new FileWriter("ventas.json")) {
-            writer.write(jsonEnFormatoString);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        System.out.println("Generando datos de prueba...");
+        List<Venta> ventas = bd2.Util.GeneradorDatos.generarVentasDePrueba();
+        System.out.println("¡Se generaron " + ventas.size() + " ventas con éxito!");
+        
+        // Llamar al mapper para guardar el archivo y listo
+        bd2.Mappers.VentasMapper.guardarVentasEnArchivoJson(ventas, "ventas.json");
     }
+        
 }

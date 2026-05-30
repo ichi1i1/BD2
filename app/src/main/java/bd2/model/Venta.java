@@ -15,4 +15,17 @@ public class Venta {
     public List<DetalleProducto> productos;
 
     public double total;
+
+    public Venta() {
+    }
+
+    public Venta(String fecha, Cliente cliente, Empleado cajero, Empleado despachante, Sucursal sucursal, List<DetalleProducto> productos, double total) {
+        this.fecha = fecha;
+        this.cliente = cliente;
+        this.cajero = cajero;
+        this.despachante = despachante;
+        this.sucursal = sucursal;
+        this.productos = productos;
+        this.total = total;
+    }
 }

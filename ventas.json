@@ -1,0 +1,6146 @@
+[
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 404.0
+  },
+  {
+    "fecha": "2026-05-23",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 582.5
+  },
+  {
+    "fecha": "2026-05-8",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 682.5
+  },
+  {
+    "fecha": "2026-05-26",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 302.0
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      }
+    ],
+    "total": 253.0
+  },
+  {
+    "fecha": "2026-05-4",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 480.5
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 304.0
+      }
+    ],
+    "total": 304.0
+  },
+  {
+    "fecha": "2026-05-8",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 1063.0
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 125.5
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 659.0
+  },
+  {
+    "fecha": "2026-05-12",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 253.0
+      }
+    ],
+    "total": 1418.0
+  },
+  {
+    "fecha": "2026-05-9",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 125.5
+  },
+  {
+    "fecha": "2026-05-22",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 455.0
+  },
+  {
+    "fecha": "2026-05-13",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 1012.0
+  },
+  {
+    "fecha": "2026-05-22",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 1137.5
+  },
+  {
+    "fecha": "2026-05-13",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 455.0
+  },
+  {
+    "fecha": "2026-05-20",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 759.0
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 1063.0
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 478.5
+  },
+  {
+    "fecha": "2026-05-16",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 606.0
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 935.5
+  },
+  {
+    "fecha": "2026-05-8",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 251.0
+  },
+  {
+    "fecha": "2026-05-22",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "despachante": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 1037.5
+  },
+  {
+    "fecha": "2026-05-19",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 8",
+        "numeroAfiliado": "AF-8"
+      },
+      "nombre": "NombreCliente8",
+      "apellido": "ApellidoCliente8",
+      "dni": "10000008",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 80,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "despachante": {
+      "cuil": 20000002,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp2",
+      "apellido": "ApellidoEmp2",
+      "dni": "20000002"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 251.0
+  },
+  {
+    "fecha": "2026-05-3",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 329.5
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000003,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp3",
+      "apellido": "ApellidoEmp3",
+      "dni": "20000003"
+    },
+    "despachante": {
+      "cuil": 20000001,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp1",
+      "apellido": "ApellidoEmp1",
+      "dni": "20000001"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 1",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0001"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 1341.5
+  },
+  {
+    "fecha": "2026-05-27",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 757.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 935.5
+  },
+  {
+    "fecha": "2026-05-24",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 453.0
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 733.5
+  },
+  {
+    "fecha": "2026-05-27",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 202.0
+  },
+  {
+    "fecha": "2026-05-26",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 253.0
+      }
+    ],
+    "total": 506.0
+  },
+  {
+    "fecha": "2026-05-20",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 1267.0
+  },
+  {
+    "fecha": "2026-05-18",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 404.0
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 304.0
+      }
+    ],
+    "total": 304.0
+  },
+  {
+    "fecha": "2026-05-5",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 757.0
+  },
+  {
+    "fecha": "2026-05-27",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 125.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 553.0
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      }
+    ],
+    "total": 608.0
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 480.5
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      }
+    ],
+    "total": 810.0
+  },
+  {
+    "fecha": "2026-05-19",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 557.0
+  },
+  {
+    "fecha": "2026-05-24",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 1161.0
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 810.0
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 935.5
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 886.5
+  },
+  {
+    "fecha": "2026-05-4",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 757.0
+  },
+  {
+    "fecha": "2026-05-14",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 151.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 908.0
+  },
+  {
+    "fecha": "2026-05-11",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 329.5
+  },
+  {
+    "fecha": "2026-05-6",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 176.5
+  },
+  {
+    "fecha": "2026-05-19",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 733.5
+  },
+  {
+    "fecha": "2026-05-23",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 327.5
+  },
+  {
+    "fecha": "2026-05-23",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 710.0
+  },
+  {
+    "fecha": "2026-05-11",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      }
+    ],
+    "total": 455.0
+  },
+  {
+    "fecha": "2026-05-14",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      }
+    ],
+    "total": 253.0
+  },
+  {
+    "fecha": "2026-05-7",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000006,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp6",
+      "apellido": "ApellidoEmp6",
+      "dni": "20000006"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 1039.5
+  },
+  {
+    "fecha": "2026-05-5",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      }
+    ],
+    "total": 608.0
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 202.0
+  },
+  {
+    "fecha": "2026-05-24",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000004,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp4",
+      "apellido": "ApellidoEmp4",
+      "dni": "20000004"
+    },
+    "despachante": {
+      "cuil": 20000005,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp5",
+      "apellido": "ApellidoEmp5",
+      "dni": "20000005"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 2",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 200,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0002"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 176.5
+  },
+  {
+    "fecha": "2026-05-9",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 10",
+        "numeroAfiliado": "AF-10"
+      },
+      "nombre": "NombreCliente10",
+      "apellido": "ApellidoCliente10",
+      "dni": "100000010",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 100,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 1622.0
+  },
+  {
+    "fecha": "2026-05-15",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 835.5
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 8",
+        "numeroAfiliado": "AF-8"
+      },
+      "nombre": "NombreCliente8",
+      "apellido": "ApellidoCliente8",
+      "dni": "10000008",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 80,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 202.0
+  },
+  {
+    "fecha": "2026-05-9",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 8",
+        "numeroAfiliado": "AF-8"
+      },
+      "nombre": "NombreCliente8",
+      "apellido": "ApellidoCliente8",
+      "dni": "10000008",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 80,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 202.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 1139.5
+  },
+  {
+    "fecha": "2026-05-19",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 937.5
+  },
+  {
+    "fecha": "2026-05-2",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 329.5
+  },
+  {
+    "fecha": "2026-05-22",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 304.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 1569.0
+  },
+  {
+    "fecha": "2026-05-2",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 2",
+          "tipo": "Medicamento",
+          "precio": 151.0,
+          "codigo": 1002,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 151.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 680.5
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 710.0
+  },
+  {
+    "fecha": "2026-05-12",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 329.5
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 176.5
+  },
+  {
+    "fecha": "2026-05-4",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 125.5
+  },
+  {
+    "fecha": "2026-05-10",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 8",
+        "numeroAfiliado": "AF-8"
+      },
+      "nombre": "NombreCliente8",
+      "apellido": "ApellidoCliente8",
+      "dni": "10000008",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 80,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 912.0
+  },
+  {
+    "fecha": "2026-05-7",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 557.0
+  },
+  {
+    "fecha": "2026-05-17",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 4",
+          "tipo": "Medicamento",
+          "precio": 202.0,
+          "codigo": 1004,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 202.0
+      }
+    ],
+    "total": 1365.0
+  },
+  {
+    "fecha": "2026-05-12",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 227.5
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 125.5
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 253.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      }
+    ],
+    "total": 631.5
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 659.0
+  },
+  {
+    "fecha": "2026-05-14",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 176.5
+  },
+  {
+    "fecha": "2026-05-27",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 2",
+        "numeroAfiliado": "AF-2"
+      },
+      "nombre": "NombreCliente2",
+      "apellido": "ApellidoCliente2",
+      "dni": "10000002",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 20,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 733.5
+  },
+  {
+    "fecha": "2026-05-3",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 1014.0
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 8",
+        "numeroAfiliado": "AF-8"
+      },
+      "nombre": "NombreCliente8",
+      "apellido": "ApellidoCliente8",
+      "dni": "10000008",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 80,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 227.5
+  },
+  {
+    "fecha": "2026-05-20",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      }
+    ],
+    "total": 710.0
+  },
+  {
+    "fecha": "2026-05-5",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 1",
+          "tipo": "Medicamento",
+          "precio": 125.5,
+          "codigo": 1001,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 125.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 1139.5
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 6",
+          "tipo": "Medicamento",
+          "precio": 253.0,
+          "codigo": 1006,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 253.0
+      }
+    ],
+    "total": 253.0
+  },
+  {
+    "fecha": "2026-05-5",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 835.5
+  },
+  {
+    "fecha": "2026-05-28",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 7",
+        "numeroAfiliado": "AF-7"
+      },
+      "nombre": "NombreCliente7",
+      "apellido": "ApellidoCliente7",
+      "dni": "10000007",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 70,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 455.0
+  },
+  {
+    "fecha": "2026-05-17",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 5",
+        "numeroAfiliado": "AF-5"
+      },
+      "nombre": "NombreCliente5",
+      "apellido": "ApellidoCliente5",
+      "dni": "10000005",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 50,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 1365.0
+  },
+  {
+    "fecha": "2026-05-13",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 4",
+        "numeroAfiliado": "AF-4"
+      },
+      "nombre": "NombreCliente4",
+      "apellido": "ApellidoCliente4",
+      "dni": "10000004",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 40,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 10",
+          "tipo": "Perfumería",
+          "precio": 355.0,
+          "codigo": 1010,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 355.0
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 1824.0
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 8",
+          "tipo": "Perfumería",
+          "precio": 304.0,
+          "codigo": 1008,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 304.0
+      }
+    ],
+    "total": 657.0
+  },
+  {
+    "fecha": "2026-05-28",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 9",
+        "numeroAfiliado": "AF-9"
+      },
+      "nombre": "NombreCliente9",
+      "apellido": "ApellidoCliente9",
+      "dni": "10000009",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 90,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 937.5
+  },
+  {
+    "fecha": "2026-05-1",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 1",
+        "numeroAfiliado": "AF-1"
+      },
+      "nombre": "NombreCliente1",
+      "apellido": "ApellidoCliente1",
+      "dni": "10000001",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 10,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 3",
+          "tipo": "Medicamento",
+          "precio": 176.5,
+          "codigo": 1003,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 176.5
+      }
+    ],
+    "total": 353.0
+  },
+  {
+    "fecha": "2026-05-23",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000009,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp9",
+      "apellido": "ApellidoEmp9",
+      "dni": "20000009"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 278.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      },
+      {
+        "producto": {
+          "nombre": "Producto 5",
+          "tipo": "Medicamento",
+          "precio": 227.5,
+          "codigo": 1005,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 227.5
+      }
+    ],
+    "total": 1012.0
+  },
+  {
+    "fecha": "2026-05-28",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 6",
+        "numeroAfiliado": "AF-6"
+      },
+      "nombre": "NombreCliente6",
+      "apellido": "ApellidoCliente6",
+      "dni": "10000006",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 60,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "despachante": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 9",
+          "tipo": "Perfumería",
+          "precio": 329.5,
+          "codigo": 1009,
+          "stock": 50
+        },
+        "cantidad": 2,
+        "precioUnitario": 329.5
+      }
+    ],
+    "total": 659.0
+  },
+  {
+    "fecha": "2026-05-21",
+    "cliente": {
+      "obraSocial": {
+        "nombre": "Obra Social 3",
+        "numeroAfiliado": "AF-3"
+      },
+      "nombre": "NombreCliente3",
+      "apellido": "ApellidoCliente3",
+      "dni": "10000003",
+      "domicilio": {
+        "calle": "Calle Cliente",
+        "numero": 30,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      }
+    },
+    "cajero": {
+      "cuil": 20000008,
+      "tipo": "Vendedor",
+      "nombre": "NombreEmp8",
+      "apellido": "ApellidoEmp8",
+      "dni": "20000008"
+    },
+    "despachante": {
+      "cuil": 20000007,
+      "tipo": "Encargado",
+      "nombre": "NombreEmp7",
+      "apellido": "ApellidoEmp7",
+      "dni": "20000007"
+    },
+    "sucursal": {
+      "nombre": "Sucursal 3",
+      "domicilio": {
+        "calle": "Calle Principal",
+        "numero": 300,
+        "localidad": "Ciudad",
+        "provincia": "Provincia"
+      },
+      "puntoVenta": "0003"
+    },
+    "productos": [
+      {
+        "producto": {
+          "nombre": "Producto 7",
+          "tipo": "Medicamento",
+          "precio": 278.5,
+          "codigo": 1007,
+          "stock": 50
+        },
+        "cantidad": 1,
+        "precioUnitario": 278.5
+      }
+    ],
+    "total": 278.5
+  }
+]
